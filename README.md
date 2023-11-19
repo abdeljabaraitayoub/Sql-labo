@@ -53,8 +53,8 @@ La base de données comprend les entités suivantes :
 
  ![Alt text](https://i.ibb.co/DVhKTmN/ERD.jpg)
 - **Diagramme de Classe UML :**
-  ![Alt text](https://i.ibb.co/GvKSJhr/Class-diagram.jpg)
 
+  ![Alt text](https://i.ibb.co/GvKSJhr/Class-diagram.jpg)
 ## Utilisation ⚙️
 
 Pour utiliser le Système de Gestion des Ressources de la Société SQLI, suivez ces étapes :
