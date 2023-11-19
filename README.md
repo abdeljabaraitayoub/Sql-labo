@@ -54,7 +54,8 @@ La base de données comprend les entités suivantes :
   - Ajoutez le lien ou l'image du diagramme ERD ici.
 
 - **Diagramme de Classe UML :**
-  - Ajoutez le lien ou l'image du diagramme de classe UML ici.
+  ![Alt text](https://i.ibb.co/GvKSJhr/Class-diagram.jpg)
+  <img src="https://i.ibb.co/GvKSJhr/Class-diagram.jpg" alt="Alt text" title="Optional title">
 
 ## Utilisation ⚙️
 
