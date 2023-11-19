@@ -51,8 +51,8 @@ La base de données comprend les entités suivantes :
 
 - **Diagramme Entité-Relation (ERD):**
 
-  - Ajoutez le lien ou l'image du diagramme ERD ici.
-
+ ![Alt text](https://i.ibb.co/GvKSJhr/Class-diagram.jpg)
+  <img src="https://i.ibb.co/DVhKTmN/ERD.jpg" alt="Alt text" title="Optional title">
 - **Diagramme de Classe UML :**
   ![Alt text](https://i.ibb.co/GvKSJhr/Class-diagram.jpg)
   <img src="https://i.ibb.co/GvKSJhr/Class-diagram.jpg" alt="Alt text" title="Optional title">
