@@ -54,6 +54,7 @@ La base de données comprend les entités suivantes :
  ![Alt text](https://i.ibb.co/DVhKTmN/ERD.jpg)
  
 - **Diagramme de Classe UML :**
+
   ![Alt text](https://i.ibb.co/GvKSJhr/Class-diagram.jpg)
 
 - **Diagramme de cas d'utilisateur :**
