@@ -57,6 +57,7 @@ La base de données comprend les entités suivantes :
   ![Alt text](https://i.ibb.co/GvKSJhr/Class-diagram.jpg)
 
 - **Diagramme de cas d'utilisateur :**
+
   ![Alt text](https://i.ibb.co/YpDk1CM/uses-cases-diagram.jpg)
 
 ## Utilisation ⚙️
