@@ -13,6 +13,9 @@ La base de données comprend les entités suivantes :
 - **Projet :** Chaque projet a un ProjectID unique et est caractérisé par un nom, une description et des dates de début/fin.
 - **Ressource :** Identifiée par un ResourceID, liée à une catégorie (via CategoryID) et à une sous-catégorie (via SubcategoryID). Peut être associée à un squad (via SquadID) et/ou un projet (via ProjectID).
 - **Catégorie et Sous-catégorie :** Utilisées pour classer les ressources de manière organisée, chaque sous-catégorie étant associée à une catégorie spécifique.
+- **Data dictionnary:**
+
+ ![Alt text](https://github.com/abdeljabaraitayoub/Sql-labo/blob/e358a3b4c9f037767eeab6e908f3321ae0037265/Diagrams/data%20dictionnary.png)
 
 ## Histoires d'Utilisateurs 📜
 
@@ -51,7 +54,7 @@ La base de données comprend les entités suivantes :
 
 - **Diagramme Entité-Relation (ERD):**
 
- ![Alt text](https://i.ibb.co/v4YrhgL/ERD.png)
+ ![Alt text](https://github.com/abdeljabaraitayoub/Sql-labo/blob/e358a3b4c9f037767eeab6e908f3321ae0037265/Diagrams/ERD.png)
  
 - **Diagramme de Classe UML :**
 
@@ -59,23 +62,9 @@ La base de données comprend les entités suivantes :
 
 - **Diagramme de cas d'utilisateur :**
 
-  ![Alt text](https://i.ibb.co/YpDk1CM/uses-cases-diagram.jpg)
-
-## Utilisation ⚙️
-
-Pour utiliser le Système de Gestion des Ressources de la Société SQLI, suivez ces étapes :
-
-1. Clonez le dépôt sur votre machine locale.
-2. Configurez la base de données à l'aide des scripts SQL fournis.
-3. Lancez l'application et accédez-y via l'interface fournie.
-4. Suivez les histoires d'utilisateurs pour effectuer différentes actions dans le système.
+  ![Alt text](https://github.com/abdeljabaraitayoub/Sql-labo/blob/e358a3b4c9f037767eeab6e908f3321ae0037265/Diagrams/uses%20cases%20diagram.jpg)
 
 ## Contributeurs 👥
 
-- [Votre Nom]
-- [Contributeur 2]
-- [Contributeur 3]
+- AITAYOUB Abdeljabar
 
-## Licence 📄
-
-Ce projet est sous licence [Nom de la Licence] - consultez le fichier [LICENSE.md](LICENSE.md) pour plus de détails.
